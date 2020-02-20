@@ -1,0 +1,4 @@
+Time for Run 1: 0.022922 seconds
+Time for Run 2: 0.021203 seconds
+Time for Run 3: 0.021324 seconds
+Average Time for Bubble Sort DES: 0.021816
